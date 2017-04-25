@@ -1,0 +1,149 @@
+#wrapper {
+	background-image:url("../Images/Advantage/bg-grad.gif");
+	
+	background-position: right top;
+	height:1200px;
+	width:1160px;;
+}
+#header {
+	position:relative;
+	float:left;
+	
+	width:960px;
+	height:20px;
+	margin:0px 20px 50px 90px;
+}
+#navtag1 {
+	position:absolute;
+	background-color:rgb(241,242,243);
+	float:left;
+	
+	width:960px;
+	height:20px;
+	margin:55px 20px 50px 93px;
+}
+#navtag2 {
+	position:absolute;
+	float:left;
+	
+	width:960px;
+	height:15px;
+	margin:85px 20px 50px 90px;
+}
+#car_region {
+
+	position:absolute;
+	
+	float:left;
+	
+	width:660px;
+	height:740px;
+	margin:120px 20px 50px 90px;
+	
+}
+#ad_region {
+
+	position:absolute;
+	
+	width:280px;
+	height:400px;
+	margin:120px 20px 0px 765px;	
+}
+#ad_region p,address{
+	margin-left:15px;	margin-top:-10px;
+}
+#ad_region h5,h6 {margin-left:15px;	margin-bottom:20px;margin-top:0px;}
+#footer_tag {
+
+	float:left;
+	position:absolute;
+	background-color:rgb(228,239,245);
+	width:960px;
+	height:250px;
+	margin:545px 20px 0px 90px;
+	border-bottom:5px solid blue;
+}
+.id {
+	
+	padding: 0px;
+    float: left;
+    margin-top: 5px;
+}
+.menu1{
+	width:400px;
+	height:20px;
+	
+	padding: 0px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 260px;
+}
+
+nav ul { list-style:none; text-align:right;}
+nav ul li a{float:left;padding-right:40px;padding-left:10px;text-decoration:none;font-size:13px;
+margin-top:-13px;color:rgb(0,0,0);}
+
+nav ol { list-style:none; text-align:right;}
+nav ol li a{float:left;padding-right:100px;padding-left:10px;text-decoration:none;font-size:13px;
+margin-top:-5px;color:rgb(111,111,112);}
+
+.search {
+	
+	width:auto;;
+	height:15px;
+}
+.divider_img1 {
+	border:3px solid red;
+	width:60px;
+	height:40px;
+	position:absolute;
+	
+	margin-left:100px;
+	margin-top:20px;
+	margin-right:200px;
+	margin-top:20px;
+	
+}
+
+.white{width:660px;background:white;height:55px;}
+.grey{width:660px;background:rgb(234,235,233);height:55px;}
+.box{width:25%;height:inherit;float:left;}
+.price{font-size:11px;margin-top:0px;margin-bottom:0px;margin-left:2px;
+		text-align:center;}
+.USD{margin-top:0px;margin-bottom:0px;margin-left:2px;font-size:9px;
+		text-align:center;}
+.select{margin-top:0px;margin-bottom:0px;margin-left:2px;width:55px;height:20px;
+		text-align:center;background:rgb(70,124,193);color:white;margin-left:54px;}
+.total{font-size:9px;color:grey;margin-top:0px;margin-bottom:0px;margin-left:2px;
+		text-align:center;}
+.car_name{font-size:10px;color:black;margin-top:-8px;margin-bottom:2px;margin-left:-20px;
+		text-align:center;}
+.car {margin-top:-4px;margin-left:20px;width:100px;height:50px;}
+		
+.icon_man{position:absolute;   margin-top: 9px;margin-bottom: 0px;
+   		 margin-right: 0px;margin-left: 49px;width:4px;;height:10px;}
+.sm_case{position:absolute;margin-top: 22px;
+    		margin-left: 42px;float:left;width:10px;;height:6px;}
+.lg_case{ position:absolute;   margin-left: 40px;
+    		margin-top: 33px;float:left;width:12px;;height:8px;}
+.man_p{position:absolute;margin-top: 10px;
+    		margin-left: 62px;font-size:9px;float:left;}
+.sm_p{position:absolute;font-size:9px;float:left;margin-left: 62px;
+    	margin-top: 21px;}
+.lg_p{position:absolute;margin-left: 62px;
+    margin-top: 33px;font-size:9px;float:left;}
+    
+.equipment {position:absolute;margin-left: 40px;
+   					 margin-top:0px;font-size:9px;float:left;}
+.equipment_2 {position:absolute;margin-left: 40px;
+   					 margin-top:11px;font-size:9px;float:left;}
+.equipment_3 {position:absolute;margin-left: 40px;
+   					 margin-top:22px;font-size:9px;float:left;}
+.equipment_4 {position:absolute;margin-left: 40px;
+   					 margin-top:33px;font-size:9px;float:left;}
+.equipment_5 {position:absolute;margin-left: 40px;
+   					 margin-top:44px;font-size:9px;float:left;}
+   					 
+#footer_tag a{text-decoration:none;}
+#footer_tag h5{margin-top:15px;margin-bottom:-5px;}
+#footer_tag p{font-size:14px;margin-bottom:-8px;margin-left:15px;}
